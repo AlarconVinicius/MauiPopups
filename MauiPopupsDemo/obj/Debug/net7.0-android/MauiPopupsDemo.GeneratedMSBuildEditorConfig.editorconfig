@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net7.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = MauiPopupsDemo
+build_property.ProjectDir = C:\Projetos\C#\MauiPopupsDemo\MauiPopupsDemo\
+
+[C:/Projetos/C\#/MauiPopupsDemo/MauiPopupsDemo/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiPopupsDemo.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Projetos/C\#/MauiPopupsDemo/MauiPopupsDemo/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiPopupsDemo.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Projetos/C\#/MauiPopupsDemo/MauiPopupsDemo/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiPopupsDemo.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Projetos/C\#/MauiPopupsDemo/MauiPopupsDemo/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiPopupsDemo.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Projetos/C\#/MauiPopupsDemo/MauiPopupsDemo/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiPopupsDemo.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Projetos/C\#/MauiPopupsDemo/MauiPopupsDemo/Views/OccasionPopup.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiPopupsDemo.Views.OccasionPopup.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\OccasionPopup.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\OccasionPopup.xaml
+
+[C:/Projetos/C\#/MauiPopupsDemo/MauiPopupsDemo/Views/OccasionsView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiPopupsDemo.Views.OccasionsView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\OccasionsView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\OccasionsView.xaml
+
+[C:/Projetos/C\#/MauiPopupsDemo/MauiPopupsDemo/Views/SamplePopup.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiPopupsDemo.Views.SamplePopup.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SamplePopup.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SamplePopup.xaml
